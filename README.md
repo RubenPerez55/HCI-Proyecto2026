@@ -12,7 +12,7 @@
 
 | NOMBRES                           | FOTO                                                                                            |
 | --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Pablo Gabriel Canto Pérez         |                                                                                                 |
+| Pablo Gabriel Canto Pérez         | <img src="./assets/img/profile_pictures/cantoPablo.jpeg" width="30%" alt="fotocanto"/>         |
 | Javier de Jesús Ortiz Miss        | <img src="./assets/img/profile_pictures/ortizJavier.jpeg" width="30%" alt="fotoortiz"/>         |
 | Rubén Alejandro Pérez Zumárraga   |                                                                                                 |
 | José Antonio Polanco Oxté         | <img src="./assets/img/profile_pictures/polancoJose.jpg" width="30%" alt="fotopolanco"/>        |
