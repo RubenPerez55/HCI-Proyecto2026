@@ -20,8 +20,9 @@
 
 ## Primera entrega
 
----
 
 - [Presentación de avance](/docs/Mente-Cercana.pptx) 
 - [Documento primera entrega](/docs/MenteCercanaV1_Canto.Ortiz.Perez.Polanco.Villarino.pdf)
 
+
+---
