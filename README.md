@@ -23,6 +23,5 @@
 - [Presentación de avance](/docs/Mente-Cercana.pptx)
 - [Documento primera entrega](/docs/MenteCercanaV1_Canto.Ortiz.Perez.Polanco.Villarino.pdf)
 - [Documento segunda entrega](/docs/Segunda_Entrega)
-- [Segunda entrega](/docs/Segunda_Entrega)
 
 ---
